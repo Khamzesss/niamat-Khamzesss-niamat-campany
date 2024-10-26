@@ -28,7 +28,7 @@ function checkAnswer(button) {
 const options = document.querySelectorAll(".option");
 options.forEach((option) => {
   option.addEventListener("click", function () {
-    option.style.padding = "20px 30px";
+    option.style.padding = "20px 3px";
   });
 });
 //     /* Если ты зашел сюда и решил взять код, то я дарю его тебе. Хьанал хуьйла! */
